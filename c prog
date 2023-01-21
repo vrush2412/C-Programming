@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main(){
+    int roll no;
+    char name;
+    float cmarks,pmarks,marks;
+    float sum;
+
+    printf("\n Enter your name:");
+    scanf("%s",&name);
+
+
+
+}
